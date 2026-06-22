@@ -169,7 +169,6 @@ Example:
 
 - More Scheduling Algorithms
 - Animated Gantt Charts
-- Dark Mode
 - Export Results as PDF
 - Process Statistics Dashboard
 - Comparison Between Algorithms
