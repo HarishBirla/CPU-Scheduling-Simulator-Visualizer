@@ -72,13 +72,13 @@ CPU-Scheduling-Simulator-Visualizer/
 
 - FCFS (First Come First Serve)
 - SJF (Shortest Job First)
-- Priority Scheduling
+- SRTF (Shotest Remaining Time First)
 - Round Robin
-- Preemptive Scheduling
-- Non-Preemptive Scheduling
+- Priority Scheduling [Preemptive] 
+- Non Priority Scheduling [Non-Preemptive]
+- MLFQ (Multilevel Feedback Queue)
 
-> Add or remove algorithms according to your implementation.
-
+ 
 ---
 
 ## 🖥️ How It Works
