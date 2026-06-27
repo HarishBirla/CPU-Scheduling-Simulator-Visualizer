@@ -149,21 +149,6 @@ or run with a live server.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots inside an `assets/` folder.
-
-Example:
-
-```md
-![Home Screen](assets/home.png)
-
-![Simulation Result](assets/result.png)
-
-![Gantt Chart](assets/gantt-chart.png)
-```
-
----
 
 ## 🔮 Future Enhancements
 
